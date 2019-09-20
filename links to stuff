@@ -1,0 +1,15 @@
+Using a Teensy as a joystick. This is very similar to the lunch pad
+https://www.pjrc.com/teensy/td_joystick.html
+Example of a usb teensy joystick: https://blog.hamaluik.ca/posts/making-a-custom-teensy3-hid-joystick/
+
+By using the Teensy 3.6 it has a Host USB and a Device usb:
+https://www.pjrc.com/store/teensy36.html
+https://www.pjrc.com/store/cable_usb_host_t36.html
+
+If the above Teensy does not work well we can use Usb host shield:
+https://www.pjrc.com/teensy/td_libs_USBHostShield.html
+
+Some refrences: 
+Teensy 3.6 USB Host support :https://forum.pjrc.com/threads/37615-Teensy-3-6-USB-Host-support
+Github for USB libary:https://github.com/felis/UHS30
+Teensy joystick stuff: https://forum.pjrc.com/threads/23681-Many-axis-joystick
